@@ -1,6 +1,6 @@
 # pomme_poire_ananas
 
-A new Flutter project.
+TP_Pomme_Poire_Ananas - HERB Sophie - MNS - M2I
 
 ## Getting Started
 
